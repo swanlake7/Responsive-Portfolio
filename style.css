@@ -5,7 +5,7 @@ body {
     line-height: 34px;
     color: #777777;
     /* background: url("../images/concrete_seamless.png"); */
-    background: black;
+    background:  #290066;
     color: white;
   }
   
@@ -64,6 +64,7 @@ body {
     font-size: 30px;
     line-height: 49px;
     border-bottom: 3px solid #dddddd;
+    color: #ff80bf;
   }
   
   h2,
@@ -79,9 +80,11 @@ body {
     width: 100%;
     margin: 0 0 30px;
     overflow: auto;
-    color: #ffffff;
-    background: #ffffff;
-    border-bottom: 2px solid #cccccc;
+    color: #ff80bf;
+    background: black;
+    /* background: #ffffff; */
+    /* border-bottom: 2px solid #cccccc; */
+    border-bottom: 2px solid black;
   }
   
   #logo {
@@ -95,7 +98,8 @@ body {
     color: #ffffff;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    /* background: #4aaaa5; */
+    background: black;
   }
   
   nav {
@@ -108,9 +112,11 @@ body {
     padding-left: 15px;
     margin-left: 15px;
     line-height: 18px;
-    color: #999;
+    /* color: #999; */
+    color: #ff80bf;
     text-decoration: none;
-    border-left: 1px solid #efefef;
+    /* border-left: 1px solid #efefef; */
+    border-left: 1px solid #ff80bf;
   }
   
   nav a:first-child {
@@ -125,10 +131,13 @@ body {
     font-size: 12px;
     color: #ffffff;
     /* color: #cccccc; */
-    color: black;
+    color: white;
     text-align: center;
-    background: #666666;
-    border-top: 8px solid #4aaaa5;
+    /* background: #666666; */
+    /* background: #4700b3; */
+    background: black;
+    /* border-top: 8px solid #4aaaa5; */
+    border-top: 8px solid #4700b3;
     height: 50px;
     /* position: sticky;
     bottom: 0; */
@@ -138,7 +147,8 @@ body {
     padding-bottom: 20px;
     margin-bottom: 15px;
     line-height: 22px;
-    border-bottom: 2px solid #eeeeee;
+    /* border-bottom: 2px solid #eeeeee; */
+    border-bottom: 2px solid #4700b3;
   }
   
   /* main */
@@ -190,7 +200,8 @@ body {
     line-height: 30px;
     color: #ffffff;
     text-align: center;
-    background: #4aaaa5;
+    /* background: #4aaaa5; */
+    background: black;
     border-bottom: 0;
   }
   
